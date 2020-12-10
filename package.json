@@ -1,0 +1,19 @@
+{
+  "name": "ts-drop-shorter-than",
+  "version": "0.1.0",
+  "description": "Prune files created by tsc --generateTrace",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amcasey/ts-drop-shorter-than.git"
+  },
+  "author": "Andrew Casey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amcasey/ts-drop-shorter-than/issues"
+  },
+  "homepage": "https://github.com/amcasey/ts-drop-shorter-than#readme",
+  "dependencies": {
+    "jsonparse": "^1.3.1"
+  }
+}
