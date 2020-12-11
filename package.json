@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Prune files created by tsc --generateTrace",
   "main": "index.js",
+  "bin": {
+    "ts-drop-shorter-than": "./bin/ts-drop-shorter-than"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amcasey/ts-drop-shorter-than.git"
